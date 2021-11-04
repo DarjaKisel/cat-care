@@ -1,6 +1,6 @@
-package org.dzinevich.repository;
+package com.dzinevich.repository;
 
-import org.dzinevich.model.Procedure;
+import com.dzinevich.model.Procedure;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;

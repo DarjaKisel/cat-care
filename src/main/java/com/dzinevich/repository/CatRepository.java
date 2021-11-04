@@ -1,6 +1,6 @@
-package org.dzinevich.repository;
+package com.dzinevich.repository;
 
-import org.dzinevich.model.Cat;
+import com.dzinevich.model.Cat;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;
